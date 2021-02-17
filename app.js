@@ -16,7 +16,7 @@ const PROMOTIONS_ROUTE = "/api/v1/promotions";
 const LEADERS_ROUTE = "/api/v1/leaders";
 
 const mongoose = require("mongoose");
-const url = "mongodb://localhost:27017/conFusion"; //should be replaced with remote url when app goes live
+const url = "mongodb://localhost:27017/cherry-gun"; //should be replaced with remote url when app goes live
 
 var app = express();
 
