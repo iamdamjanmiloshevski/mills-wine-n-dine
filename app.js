@@ -3,7 +3,6 @@ var express = require("express");
 var path = require("path");
 var cookieParser = require("cookie-parser");
 var logger = require("morgan");
-
 var indexRouter = require("./routes/index");
 var usersRouter = require("./routes/users");
 var dishRouter = require("./routes/dish-router");
@@ -16,9 +15,7 @@ const PROMOTIONS_ROUTE = "/api/v1/promotions";
 const LEADERS_ROUTE = "/api/v1/leaders";
 
 const mongoose = require("mongoose");
-const url = "mongodb://localhost:27017/cherry-gun"; //should be replaced with remote url when app goes live
-
-var app = express();
+const url = "mongodb://localhost:27017/cherry-gun";
 
 var app = express();
 connectToDatabase();
@@ -72,3 +69,4 @@ function setupErrorHandling() {
   });
 }
 module.exports = app;
+
