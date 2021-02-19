@@ -15,8 +15,7 @@ To run this Express server locally you'll have to install several things on your
 To set it up correctly please follow the steps above
 
 ## 1. Installation
-
-    1. Installing node.js (you can skip this step if you already have node installed on your machine)
+ 1. Installing node.js (you can skip this step if you already have node installed on your machine)
        - To install Node.js go to [NodeJS official   page] (https://nodejs.org/en/) and install the latest version available. After the installation finishes, open Terminal (MacOS/Linux) or PowerShell,Command Prompt (Windows) and type `node -v` and it should print you the version you installed. For example `v15.8.0`
     2. Installing npm (Node Package Manager)
         - Go to the folder where you cloned this project and open it via Terminal or PowerShell/Command Prompt (or navigate to it in the terminal)
