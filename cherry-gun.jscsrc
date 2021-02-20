@@ -1,0 +1,222 @@
+{
+    "dishes": [
+      {
+        "name": "Tavche Gravche",
+        "image": "https://firebasestorage.googleapis.com/v0/b/cherry-gun.appspot.com/o/words%2Fdishes%2Ftavce_gravce.jpg?alt=media&token=6b21bb0c-463c-4865-9dc3-65bceb0789f3",
+        "category": "mains",
+        "label": "Hot",
+        "price": "2.50",
+        "featured": "true",
+        "description": "Tavce Gravce is basically white kidney beans baked on a Tava (local skillet) mixed with other vegetables. The basic ingredient for tavce gravce are obviously, white beans but the dish includes a lot of other vegetables too, and optionally sausage or pork ribs on the side. It’s a great winter food, comfort food, and it’s a great choice for vegans and vegetarians (if you choose to prepare it without meat).",
+        "comments": [
+          {
+            "rating": 5,
+            "comment": "Perfect dish!! Highly recommend it!",
+            "author": "John Lemon",
+            "date": "2020-10-16T17:57:28.556094Z"
+          },
+          {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+            "author": "Paul McVites",
+            "date": "2020-09-05T17:57:28.556094Z"
+          },
+          {
+            "rating": 3,
+            "comment": "Eat it, just eat it!",
+            "author": "Michael Jaikishan",
+            "date": "2020-02-13T17:57:28.556094Z"
+          },
+          {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2020-12-02T17:57:28.556094Z"
+          }
+        ]
+      },
+      {
+        "name": "Pastrmajlija",
+        "image": "https://firebasestorage.googleapis.com/v0/b/cherry-gun.appspot.com/o/words%2Fdishes%2Fpastrmajlija.JPG?alt=media&token=9e7b53a8-fe89-4e02-ab16-804d53a7a531",
+        "category": "appetizer",
+        "label": "",
+        "price": "1.49",
+        "featured": "false",
+        "description": "Pastrmalija (Macedonian: Пастрмалија) is a Macedonian bread pie made from dough and meat. Pastrmalija is usually oval-shaped with sliced meat cubes on top of it. Its name derives from the word pastrma, meaning salted and dried meat of sheep or lamb (cf. \"pastırma\"). It is based on the Turkish flatbread pide.",
+        "comments": [
+          {
+            "rating": 5,
+            "comment": "Different variations of this dish. I recommend the Stipska version!",
+            "author": "John Lemon",
+            "date": "2020-10-16T17:57:28.556094Z"
+          },
+          {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+            "author": "Paul McVites",
+            "date": "2020-09-05T17:57:28.556094Z"
+          },
+          {
+            "rating": 3,
+            "comment": "Eat it, just eat it!",
+            "author": "Michael Jaikishan",
+            "date": "2020-02-13T17:57:28.556094Z"
+          },
+          {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2020-12-02T17:57:28.556094Z"
+          }
+        ]
+      },
+      {
+        "name": "Zelnik",
+        "image": "https://firebasestorage.googleapis.com/v0/b/cherry-gun.appspot.com/o/words%2Fdishes%2Fzelnik.jpg?alt=media&token=0321e651-975a-4e82-9376-4676eda92549",
+        "category": "mains",
+        "label": "New",
+        "price": "2.99",
+        "featured": "false",
+        "description": "Zelnik is a traditional Macedonian pastry from the Balkans composed of thin layers of phyllo pastry filled with various combinations of sirene, eggs, sorrel, browned meat, leeks and rice. In winter, the filling traditionally includes brined cabbage, from which the dish derives its name: zele (Macedonian Language: \"зелка\") meaning cabbage. Zelnik is often sometimes served with yoghurt and it is best eaten warm.",
+        "comments": [
+          {
+            "rating": 5,
+            "comment": "Tastestasic!",
+            "author": "John Lemon",
+            "date": "2020-10-16T17:57:28.556094Z"
+          },
+          {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+            "author": "Paul McVites",
+            "date": "2020-09-05T17:57:28.556094Z"
+          },
+          {
+            "rating": 3,
+            "comment": "Eat it, just eat it!",
+            "author": "Michael Jaikishan",
+            "date": "2020-02-13T17:57:28.556094Z"
+          },
+          {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2020-12-02T17:57:28.556094Z"
+          }
+        ]
+      },
+      {
+        "name": "Kachamak",
+        "image": "images/elaicheesecake.png",
+        "category": "mains",
+        "label": "Yellow cocaine!",
+        "price": "2.99",
+        "featured": "false",
+        "description": "Kačamak is a kind of maize porridge made in the Balkans. Its name is derived from the Turkish word kaçamak, meaning escapade. It is also known as bakrdan (бакрдан) in North Macedonia.",
+        "comments": [
+          {
+            "rating": 5,
+            "comment": "Yummy & satisfying!!",
+            "author": "John Lemon",
+            "date": "2020-10-16T17:57:28.556094Z"
+          },
+          {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+            "author": "Paul McVites",
+            "date": "2020-09-05T17:57:28.556094Z"
+          },
+          {
+            "rating": 3,
+            "comment": "Eat it, just eat it!",
+            "author": "Michael Jaikishan",
+            "date": "2020-02-13T17:57:28.556094Z"
+          },
+          {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2020-12-02T17:57:28.556094Z"
+          },
+          {
+            "rating": 2,
+            "comment": "It's your birthday, we're gonna party!",
+            "author": "25 Cent",
+            "date": "2020-12-02T17:57:28.556094Z"
+          }
+        ]
+      },
+      {
+        "name": "Ajvar",
+        "image": "https://firebasestorage.googleapis.com/v0/b/cherry-gun.appspot.com/o/words%2Fdishes%2Fajvar.jpg?alt=media&token=6e4c9537-c799-4ca3-b30b-844f7132c8b3",
+        "category": "appetizer",
+        "label": "",
+        "price": "2.99",
+        "featured": "false",
+        "description": "Ajvar (pronounced: /ˈaɪvɑːr/; Cyrillic script: ajвар, aйвар) is a condiment made principally from red bell peppers, eggplants, and oil. The relish became a popular side dish throughout Yugoslavia after World War II and is nowadays popular in Southeastern Europe. Homemade ajvar is made of roasted peppers.[2] Depending on the capsaicin content in bell peppers and the amount of added chili peppers, it can be sweet (traditional), piquant (the most common), or very hot. Ajvar can be consumed as a bread spread or as a side dish. Ajvar has a few variations. One variation containing tomato and eggplant and one made with green bell peppers and oregano.",
+        "comments": [
+          {
+            "rating": 5,
+            "comment": "OMG!",
+            "author": "John Lemon",
+            "date": "2020-10-16T17:57:28.556094Z"
+          },
+          {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+            "author": "Paul McVites",
+            "date": "2020-09-05T17:57:28.556094Z"
+          },
+          {
+            "rating": 3,
+            "comment": "Eat it, just eat it!",
+            "author": "Michael Jaikishan",
+            "date": "2020-02-13T17:57:28.556094Z"
+          },
+          {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2020-12-02T17:57:28.556094Z"
+          }
+        ]
+      },
+      {
+        "name": "Selsko Meso",
+        "image": "https://firebasestorage.googleapis.com/v0/b/cherry-gun.appspot.com/o/words%2Fdishes%2Fselsko_meso.jpg?alt=media&token=a2406912-2fe3-4162-a6fb-25e63a7dcb8d",
+        "category": "mains",
+        "label": "",
+        "price": "2.99",
+        "featured": "false",
+        "description": "Selsko meso (Macedonian: селско месо, \"village meat\") is a Balkan pork and mushroom stew. Typical ingredients include pork, onion bits, smoked meat, ground beef, tomatoes or ketchup, cream cheese, mushroom, peppers, spices, wine and salt. It is traditionally prepared in a clay pot",
+        "comments": [
+          {
+            "rating": 5,
+            "comment": "Imagine all the eatables, living in confusion!",
+            "author": "John Lemon",
+            "date": "2020-10-16T17:57:28.556094Z"
+          },
+          {
+            "rating": 4,
+            "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+            "author": "Paul McVites",
+            "date": "2020-09-05T17:57:28.556094Z"
+          },
+          {
+            "rating": 3,
+            "comment": "Eat it, just eat it!",
+            "author": "Michael Jaikishan",
+            "date": "2020-02-13T17:57:28.556094Z"
+          },
+          {
+            "rating": 4,
+            "comment": "Ultimate, Reaching for the stars!",
+            "author": "Ringo Starry",
+            "date": "2020-12-02T17:57:28.556094Z"
+          }
+        ]
+      }
+    ],
+   
+    "feedback": []
+  }
